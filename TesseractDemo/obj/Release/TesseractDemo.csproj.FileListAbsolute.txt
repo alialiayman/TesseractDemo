@@ -1,0 +1,14 @@
+c:\Projects\TesseractDemo\TesseractDemo\bin\Release\TesseractDemo.exe.config
+c:\Projects\TesseractDemo\TesseractDemo\bin\Release\x64\liblept172.dll
+c:\Projects\TesseractDemo\TesseractDemo\bin\Release\x64\libtesseract304.dll
+c:\Projects\TesseractDemo\TesseractDemo\bin\Release\x86\liblept172.dll
+c:\Projects\TesseractDemo\TesseractDemo\bin\Release\x86\libtesseract304.dll
+c:\Projects\TesseractDemo\TesseractDemo\bin\Release\TesseractDemo.exe
+c:\Projects\TesseractDemo\TesseractDemo\bin\Release\TesseractDemo.pdb
+c:\Projects\TesseractDemo\TesseractDemo\bin\Release\Tesseract.dll
+c:\Projects\TesseractDemo\TesseractDemo\bin\Release\Tesseract.xml
+c:\Projects\TesseractDemo\TesseractDemo\obj\Release\TesseractDemo.Form1.resources
+c:\Projects\TesseractDemo\TesseractDemo\obj\Release\TesseractDemo.Properties.Resources.resources
+c:\Projects\TesseractDemo\TesseractDemo\obj\Release\TesseractDemo.csproj.GenerateResource.Cache
+c:\Projects\TesseractDemo\TesseractDemo\obj\Release\TesseractDemo.exe
+c:\Projects\TesseractDemo\TesseractDemo\obj\Release\TesseractDemo.pdb
